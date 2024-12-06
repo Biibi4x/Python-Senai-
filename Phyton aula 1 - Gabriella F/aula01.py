@@ -1,0 +1,6 @@
+print('Olá, barbie!!!')
+print('Bom dia a todos!')
+print('Liberdade')
+print('Ferias')
+print('Natal')
+print('Ano Novo')
